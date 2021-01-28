@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/trieczy/electron-auto-update-example#readme",
   "devDependencies": {
-    "electron": "^7.1.5",
+    "electron": "^9.4.0",
     "electron-builder": "^21.2.0"
   },
   "dependencies": {
